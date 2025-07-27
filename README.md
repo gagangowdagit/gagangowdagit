@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chandan S Gowda</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h1 align="center">Hi 👋, I'm Gagan Gowda</h1>
+<h3 align="center">A passionate developer from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+
 🚀 CSE Undergraduate | Tech Enthusiast & Problem Solver<br>💻 Exploring Data Structures, Algorithms, and Backend Engineering<br>🛠️ Building Projects with Java | Python | MySQL | Web Technologies | DevOps<br>📚 Continuously learning & improving — one line of code at a time<br>🌱 Eager to collaborate, innovate, and grow in tech<br>📬 Let's connect and create something impactful!<br>🌐 Currently diving into Cloud Technologies and System Design<br>🎯 Aiming to solve real-world problems through clean, scalable code
 
 
