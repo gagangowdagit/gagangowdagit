@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India </h3>
 
 
-🚀 CSE Undergraduate | Tech Enthusiast & Problem Solver<br>💻 Exploring Data Structures, Algorithms, and Backend Engineering<br>🛠️ Building Projects with Java | Python | MySQL | Web Technologies | DevOps<br>📚 Continuously learning & improving — one line of code at a time<br>🌱 Eager to collaborate, innovate, and grow in tech<br>📬 Let's connect and create something impactful!<br>🌐 Currently diving into Cloud Technologies and System Design<br>🎯 Aiming to solve real-world problems through clean, scalable code
+🚀 CSE Graduate | Tech Enthusiast & Problem Solver<br>💻 Exploring Data Structures, Algorithms, and Backend Engineering<br>🛠️ Building Projects with Java | Python | MySQL | Web Technologies | DevOps<br>📚 Continuously learning & improving — one line of code at a time<br>🌱 Eager to collaborate, innovate, and grow in tech<br>📬 Let's connect and create something impactful!<br>🌐 Currently diving into Cloud Technologies and System Design<br>🎯 Aiming to solve real-world problems through clean, scalable code
 
 
 ## 🌐 Socials:
